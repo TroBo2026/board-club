@@ -1,2 +1,2 @@
-# board-club-
+# board-club
 Board Club – Online Chess
